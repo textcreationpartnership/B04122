@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable ballad of the tragical end of a gallant lord, and a vertuous lady, with the untimely end of their two children, wickedly performed by a heathenish Blackamoor their servant, the like never heard before. To the tune of, The ladies fall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1664?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04122</idno>
+            <idno type="STC">Wing L262A</idno>
+            <idno type="STC">ESTC R179935</idno>
+            <idno type="EEBO-CITATION">47012501</idno>
+            <idno type="OCLC">ocm 47012501</idno>
+            <idno type="VID">174468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174468)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable ballad of the tragical end of a gallant lord, and a vertuous lady, with the untimely end of their two children, wickedly performed by a heathenish Blackamoor their servant, the like never heard before. To the tune of, The ladies fall.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and W. Gilbertson.</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1658 and 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Contains 1 illustration.</note>
+                  <note>Right half-sheet contains: The second part to the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174468:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>A Lamentable ballad of the tragical end of a Gallant Lord, and a Vertuous Lady, with the untimely end of their two children, wickedly performed by a Heatheniſh Blacka<g ref="char:EOLhyphen"/>moor their ſervant, the like never heard of before.</head>
+            <opener>To the tune of, <hi>The Ladies fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>IN <hi>Rome</hi> a Noble man did wed</l>
+                  <l>a Virgin of great F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fairer Creature never did</l>
+                  <l>Dame N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ture ever frame,</l>
+                  <l>By whom he had two children fair,</l>
+                  <l>whoſe beauty did excell,</l>
+                  <l>They were their Parents only joy</l>
+                  <l>they lov'd them hath ſo well,</l>
+               </lg>
+               <lg>
+                  <l>This Lord he lo<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'d to hunt the Buck</l>
+                  <l>the Tyger and the Bear,</l>
+                  <l>And ſtill for ſwiftneſs alwayes took</l>
+                  <l>with him a Blackamoore</l>
+                  <l>Which Blackamoor within the wood</l>
+                  <l>his Lord he did offend,</l>
+                  <l>For which he did him then correct</l>
+                  <l>in hope he would amend.</l>
+               </lg>
+               <lg>
+                  <l>The day it grew unto an end,</l>
+                  <l>then home ward he did ha<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e</l>
+                  <l>Where with his Lady he did reſt</l>
+                  <l>untill the night was paſt,</l>
+                  <l>Than in the morning he did riſe,</l>
+                  <l>and did his ſervants call,</l>
+                  <l>A hunting he provided to go</l>
+                  <l>ſtreight they were ready all,</l>
+               </lg>
+               <lg>
+                  <l>C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe of the toyl his Lady did</l>
+                  <l>intreat him not to go,</l>
+                  <l>Alas good Lady then quoth be;</l>
+                  <l>why art thou grieved ſo;</l>
+                  <l>Content thy ſelf I will return</l>
+                  <l>with ſpeed to thee again,</l>
+                  <l>Good Father quoth the little Babes,</l>
+                  <l>with us here ſtill remain.</l>
+               </lg>
+               <lg>
+                  <l>Farewell dear children I will go</l>
+                  <l>a fine thing you to buy.</l>
+                  <l>But they therewith nothing content</l>
+                  <l>aloud began to cry.</l>
+                  <l>The Mother takes them by the hand,</l>
+                  <l>ſaying, come go with me,</l>
+                  <l>Vnto the higheſt tower where</l>
+                  <l>your Father you ſhall ſee</l>
+               </lg>
+               <lg>
+                  <l>The Blackamoore perceiving now</l>
+                  <l>who then did ſtay behind,</l>
+                  <l>His Lord to be a hunting gone</l>
+                  <l>began to call to mind;</l>
+                  <l>My Maſter he did me correct,</l>
+                  <l>my fault not being great;</l>
+                  <l>Now of his wife Ile be reveng'd</l>
+                  <l>ſhe ſhall not me intreat.</l>
+               </lg>
+               <lg>
+                  <l>The place was moted round about,</l>
+                  <l>the Bridge he up did draw:</l>
+                  <l>The Gates he bolted very faſt</l>
+                  <l>of none in ſtood in awe.</l>
+                  <l>He up into the tower went</l>
+                  <l>the Lady being there,</l>
+                  <l>Who when ſhe ſaw his countenance grim</l>
+                  <l>ſhe ſtraight began to fear.</l>
+               </lg>
+               <lg>
+                  <l>But now my trembling heart it quakes</l>
+                  <l>to think what I muſt write;</l>
+                  <l>My ſences all begin to faile</l>
+                  <l>My ſoul it doth affright.</l>
+                  <l>Yet muſt I make an end of th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>which here I have begun:</l>
+                  <l>Which will make ſad the hardeſt heart</l>
+                  <l>before that I have done.</l>
+               </lg>
+               <lg>
+                  <l>This wretch unto the Lady went</l>
+                  <l>and her with ſpeed did will,</l>
+                  <l>His luſt forthwith to ſatisfie</l>
+                  <l>his mind for to fulfill.</l>
+                  <l>The Lady ſhe amazed was</l>
+                  <l>to hear the Villain ſpeak,</l>
+                  <l>Alas quoth ſhe what ſhall I do</l>
+                  <l>with grief my heart will break?</l>
+               </lg>
+               <lg>
+                  <l>With that he took her in his arms</l>
+                  <l>ſhe ſtraight for help did cry,</l>
+                  <l>Content your ſelf Lady he ſaid</l>
+                  <l>your Husband is not nigh.</l>
+                  <l>The bridge is drawn, the gates are ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut</l>
+                  <l>therefore come lye with me,</l>
+                  <l>Or elſe I do proteſt and vow</l>
+                  <l>thy Butcher I will be.</l>
+               </lg>
+               <lg>
+                  <l>The Chriſtal tears ran down her face,</l>
+                  <l>her children cryd amain:</l>
+                  <l>And ſought to help their Mother dear</l>
+                  <l>but all it was in vain.</l>
+                  <l>For that Egregious filthy Rogu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>her hands behind her bound,</l>
+                  <l>And then perforce with all his might,</l>
+                  <l>he threw her on the ground.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>WIth that ſhe ſhrikt, her children cryd</l>
+                  <l>and ſuch a noiſe did make,</l>
+                  <l>The townſ-folks hearing her laments,</l>
+                  <l>did ſee<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their parts to take.</l>
+                  <l>But all in vain no way they found,</l>
+                  <l>to help the Ladies need.</l>
+                  <l>Who cry'd to them moſt pitiouſly</l>
+                  <l>O help, O help with ſpeed.</l>
+               </lg>
+               <lg>
+                  <l>Some ran unto the Forreſt wide,</l>
+                  <l>her Lord home for to call,</l>
+                  <l>And they that ſtood ſtill did lament</l>
+                  <l>this gallant Ladies fall.</l>
+                  <l>With Spéed her Lord came paſſing home</l>
+                  <l>he could not enter in,</l>
+                  <l>His Ladies cryes did pierce his heart,</l>
+                  <l>to call he did begin.</l>
+               </lg>
+               <lg>
+                  <l>O hold thy hand thou Savage Moor,</l>
+                  <l>to hurt her do forbear,</l>
+                  <l>Or elſe be ſure if I do live</l>
+                  <l>wild horſes ſhall thee tear:</l>
+                  <l>With that the Rogue ran to the wall,</l>
+                  <l>he having had his will.</l>
+                  <l>And brought one child under his arm</l>
+                  <l>his deareſt blood to ſpill.</l>
+               </lg>
+               <lg>
+                  <l>The child ſeeing his Father there</l>
+                  <l>to him for help did call,</l>
+                  <l>O Father help my Mother dear</l>
+                  <l>we ſhall be killed all.</l>
+                  <l>Then fell the Lord upon his knee,</l>
+                  <l>and did the Moor intreat,</l>
+                  <l>To ſave the life of his poor child,</l>
+                  <l>Whoſe fear as then was great,</l>
+               </lg>
+               <lg>
+                  <l>But this vile wretch the little child,</l>
+                  <l>by both the heels did take.</l>
+                  <l>And daſh the br<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ins againſt the wall,</l>
+                  <l>Whilſt Parents hear<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> did ake.</l>
+                  <l>That being done ſtraight way he ran</l>
+                  <l>the other child to fetch.</l>
+                  <l>And pluckt it from the Mothers breſt,</l>
+                  <l>moſt like a cruel wretch.</l>
+               </lg>
+               <lg>
+                  <l>Within one hand a knife he brought</l>
+                  <l>the child within another,</l>
+                  <l>And holding it over the wall,</l>
+                  <l>ſaying, thus dye ſhall thy Mother:</l>
+                  <l>With that he cut the throat of it,</l>
+                  <l>then to the Father did call,</l>
+                  <l>To look how he the head had cut</l>
+                  <l>then down the head did fall,</l>
+               </lg>
+               <lg>
+                  <l>This done, he threw it down the wall,</l>
+                  <l>into the Mote ſo deep,</l>
+                  <l>Which made his Father wring his hands</l>
+                  <l>and grievouſly to weep.</l>
+                  <l>Then to the Lady went this Rogue,</l>
+                  <l>who was near dead with fear,</l>
+                  <l>Yet this riſe wretch moſt cruelly</l>
+                  <l>did drag her by the hair.</l>
+               </lg>
+               <lg>
+                  <l>And drew her to the very wall</l>
+                  <l>which when her Lord did ſee</l>
+                  <l>Then preſently he cryed out,</l>
+                  <l>and fe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l upon his knee,</l>
+                  <l>Quoth he if thou will ſave her life</l>
+                  <l>whom I do love ſo dear.</l>
+                  <l>I will forgive thee all is paſt,</l>
+                  <l>though they concern me near,</l>
+               </lg>
+               <lg>
+                  <l>O ſave her life I thee b<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eech,</l>
+                  <l>O ſave her I thee pray!</l>
+                  <l>And I will give thee what thou wilt</l>
+                  <l>demand of me this day.</l>
+                  <l>Well quoth the Moor I do regard</l>
+                  <l>the moan that thou doſt ma<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>It thou wilt grant me what I ask</l>
+                  <l>Ile ſave her for thy ſake.</l>
+               </lg>
+               <lg>
+                  <l>O ſave her life and then demand</l>
+                  <l>of me what thing thou wilt,</l>
+                  <l>Cut off thy noſe and not one drop</l>
+                  <l>of her blood ſhall be ſpilt.</l>
+                  <l>With that the Lord preſently took</l>
+                  <l>a knife within his hand,</l>
+                  <l>And then his noſe be quite cut off</l>
+                  <l>in place where he did ſtand,</l>
+               </lg>
+               <lg>
+                  <l>N<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w have I bought my La<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies life,</l>
+                  <l>then to the Moor did call.</l>
+                  <l>Then take her quoth this wicked rogue</l>
+                  <l>and down he let her fall.</l>
+                  <l>Which when her gallant Lord did ſee</l>
+                  <l>his ſences all did fail</l>
+                  <l>Yet many ſought to ſave her life</l>
+                  <l>but nothing would prevail.</l>
+               </lg>
+               <lg>
+                  <l>When as the Moor did ſee him dead,</l>
+                  <l>then did he laugh amain,</l>
+                  <l>At them who for their gallant Lord</l>
+                  <l>and Lady did complain.</l>
+                  <l>Quoth he I know you'l torture me</l>
+                  <l>If that you can me get,</l>
+                  <l>But all your threats I do not fear</l>
+                  <l>nor yet regard one whit.</l>
+               </lg>
+               <lg>
+                  <l>Wild horſes ſhall my body tear,</l>
+                  <l>I know it to be true,</l>
+                  <l>But Ile prevent you of that pain</l>
+                  <l>and down himſelf be threw,</l>
+                  <l>Too good a d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath for ſuch a wretch</l>
+                  <l>a Villain void of fear,</l>
+                  <l>And thus doth end as ſad a tale</l>
+                  <l>as ever man did hear.</l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, and W. Gilbertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
